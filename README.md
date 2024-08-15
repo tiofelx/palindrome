@@ -26,3 +26,5 @@ O programa remove os espaços e converte a palavra para minúsculas antes de ver
 ```bash
 python palindrome.py
 ```
+## Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
