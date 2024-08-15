@@ -25,3 +25,4 @@ O programa remove os espaços e converte a palavra para minúsculas antes de ver
 
 ```bash
 python palindromo.py
+```
