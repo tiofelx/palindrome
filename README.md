@@ -8,7 +8,7 @@ O programa remove os espaços e converte a palavra para minúsculas antes de ver
 
 ### Exemplos de palíndromos:
 
-- "arara"
+- "Arara"
 - "A base do teto desaba"
 - "Radar"
 
