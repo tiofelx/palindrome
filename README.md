@@ -24,5 +24,5 @@ O programa remove os espaços e converte a palavra para minúsculas antes de ver
 3. Execute o programa:
 
 ```bash
-python palindromo.py
+python palindrome.py
 ```
